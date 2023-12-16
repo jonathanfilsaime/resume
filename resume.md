@@ -29,7 +29,7 @@ Skilled Cloud Infrastructure & Software Engineer with extensive experience in fo
 - Consistently consulting with client stakeholders on strategies for deployment of new cloud technology implementations.
 - Effectively automating infrastructure migration to specific cloud environments and monitoring standards for clients.
 
-### <span>Software Engineer, USAA</span> <span>Jan. 2017 –- Feb. 2021</span>
+### <span>Software Engineer, USAA</span> <span>Jan. 2017 - Feb. 2021</span>
 
 - Collected specific application metrics, expanded data to Prometheus ports, and strategically wrote unit/integration tests.
 - Designed Asynchronous payments REST API and implemented service account role mapping, bean, and business rules.
