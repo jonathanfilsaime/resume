@@ -1,8 +1,5 @@
 # Jonathan Fils-Aime
-
-- :email: jonathanfilsaime@gmail.com
-- :telephone: (469) 999-7777
-- :house_with_garden: Castle Rock, CO
+ jonathanfilsaime@gmail.com | (469) 999-7777 | Castle Rock, CO
 
 ## Professional Summary
 Skilled Cloud Infrastructure & Software Engineer with extensive experience in following cloud coding/scripting best practices, assessing system performance, managing cross-functional projects, recommending upgrades for existing systems, and deploying new cloud technology implementations. Substantial experience in communicating key project data to teams, creating solutions to meet technical goals, managing software development lifecycles, and automating infrastructure migration to cloud environments. Exceeds expectations by building strong relationships and works well with people at all levels of the organization.
